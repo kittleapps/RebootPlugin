@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reboot Plugin</string>
+    <!-- 
+    	The following strings needs to be defined in order for the Plugin to function.
+    -->
+    <string name="pluginname">Reboot</string>
+    <string name="intent_preferences">com.KittleApps.plugins.liveview.RebootPlugin.PREFERENCES</string>
+    <string name="intent_service">com.KittleApps.plugins.liveview.RebootPlugin.RebootPluginService</string>
+    <string name="application_description">Extends:com.sonyericsson.extras.liveview</string>
+</resources>
